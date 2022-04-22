@@ -13,4 +13,4 @@ simple timestamp convert
 - `ts 2022-04-22 12:12:12`
 
 ## Download
-[Download]() and double click it to import.
+[Download](https://github.com/pingdai/alfred-timestamp-convert/releases/download/v1.0.0/ts.alfredworkflow) and double click to import it.
